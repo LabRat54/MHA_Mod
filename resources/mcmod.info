@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mha_m",
+  "name": "My Hero Acadamia Mod",
+  "description": "A My Hero Acadamia Mod",
+  "version": "0.0.1",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LabRat54"],
+  "credits": "LabRat54",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

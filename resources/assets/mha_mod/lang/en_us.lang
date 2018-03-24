@@ -1,0 +1,32 @@
+item.ingot_deku.name=Deku Ingot
+item.ingot_gamma.name=Gamma Ingot
+
+item.axe_deku.name=Deku Axe
+item.hoe_deku.name=Deku Hoe
+item.shovel_deku.name=Deku Shovel
+item.pickaxe_deku.name=Deku Pickaxe
+item.sword_deku.name=Deku Sword
+
+item.axe_gamma.name=Gamma Axe
+item.hoe_gamma.name=Gamma Hoe
+item.shovel_gamma.name=Gamma Shovel
+item.pickaxe_gamma.name=Gamma Pickaxe
+item.sword_gamma.name=Gamma Sword
+
+item.helmet_deku.name=Deku Helmet
+item.chestplate_deku.name=Deku Chestplate
+item.leggings_deku.name=Deku Leggins
+item.boots_deku.name=Deku Boots
+
+item.helmet_gamma.name=Gamma Helmet
+item.chestplate_gamma.name=Gamma Chestplate
+item.leggings_gamma.name=Gamma Leggins
+item.boots_gamma.name=Gamma Boots
+
+tile.block_deku.name=Deku Block
+tile.block_gamma.name=Gamma Block
+
+tile.ore_deku.name=Deku Ore
+tile.ore_gamma.name=Gamma Ore
+
+itemGroup.myheroacadamiatab=My Hero Acadmia Mod Tab
